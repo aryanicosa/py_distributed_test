@@ -1,5 +1,5 @@
 [project]
-name = "python_distributed"
+name = "test_publish_hello_world"
 version = "0.0.1"
 description = "learn distributed python"
 authors = [
